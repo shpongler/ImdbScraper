@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImdbScraper", "ImdbScraper\ImdbScraper.csproj", "{B40E909C-C79C-4628-9E9A-2220E9AA06C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImdbScraper.Test", "ImdbScraper.Test\ImdbScraper.Test.csproj", "{BA893D6B-78C8-4D47-95AE-5151EDE2EC0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImdbScraper.Console", "ImdbScraper.Console\ImdbScraper.Console.csproj", "{995C5A5D-B3B7-404C-A943-9D0A16EC66A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40E909C-C79C-4628-9E9A-2220E9AA06C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40E909C-C79C-4628-9E9A-2220E9AA06C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40E909C-C79C-4628-9E9A-2220E9AA06C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40E909C-C79C-4628-9E9A-2220E9AA06C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA893D6B-78C8-4D47-95AE-5151EDE2EC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA893D6B-78C8-4D47-95AE-5151EDE2EC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA893D6B-78C8-4D47-95AE-5151EDE2EC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA893D6B-78C8-4D47-95AE-5151EDE2EC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995C5A5D-B3B7-404C-A943-9D0A16EC66A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995C5A5D-B3B7-404C-A943-9D0A16EC66A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995C5A5D-B3B7-404C-A943-9D0A16EC66A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995C5A5D-B3B7-404C-A943-9D0A16EC66A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
